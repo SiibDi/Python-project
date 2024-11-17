@@ -1,2 +1,2 @@
-# Python-project
+# Python-project. Diana Sibataeva
 Board games
